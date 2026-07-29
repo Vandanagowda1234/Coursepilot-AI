@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openai
+groq
+pymupdf
+python-docx
+reportlab
+sqlite-utils
+python-dotenv
+Pillow

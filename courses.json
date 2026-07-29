@@ -1,0 +1,58 @@
+[
+  {
+    "name":"Python Fundamentals",
+    "career":["AI Engineer","Data Scientist"],
+    "prerequisites":[],
+    "duration":"4 Weeks",
+    "reason":"Build strong programming fundamentals."
+  },
+  {
+    "name":"Statistics",
+    "career":["AI Engineer","Data Scientist"],
+    "prerequisites":["Python"],
+    "duration":"3 Weeks",
+    "reason":"Required for Machine Learning."
+  },
+  {
+    "name":"Machine Learning",
+    "career":["AI Engineer","Data Scientist"],
+    "prerequisites":["Python"],
+    "duration":"6 Weeks",
+    "reason":"Core AI knowledge."
+  },
+  {
+    "name":"Deep Learning",
+    "career":["AI Engineer"],
+    "prerequisites":["Python"],
+    "duration":"5 Weeks",
+    "reason":"Advanced neural network concepts."
+  },
+  {
+    "name":"Linux Basics",
+    "career":["Cyber Security","Cloud Engineer"],
+    "prerequisites":[],
+    "duration":"2 Weeks",
+    "reason":"Foundation for security and cloud."
+  },
+  {
+    "name":"Ethical Hacking",
+    "career":["Cyber Security"],
+    "prerequisites":["Linux"],
+    "duration":"6 Weeks",
+    "reason":"Hands-on penetration testing."
+  },
+  {
+    "name":"HTML CSS JavaScript",
+    "career":["Full Stack Developer"],
+    "prerequisites":[],
+    "duration":"4 Weeks",
+    "reason":"Frontend fundamentals."
+  },
+  {
+    "name":"React",
+    "career":["Full Stack Developer"],
+    "prerequisites":["HTML","CSS","JavaScript"],
+    "duration":"5 Weeks",
+    "reason":"Modern frontend development."
+  }
+]
